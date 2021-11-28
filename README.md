@@ -1,2 +1,2 @@
-# JavaScript-example
+# JavaScript-Questions
 .....
